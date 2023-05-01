@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with data. 
 - 🌱 I’m currently learning how to use python in Data Analyst
 - 💞️ I’m looking to collaborate on with everyone in this community 
-- 📫 How to reach me 
+- 📫 How to reach me (ps.. I'm not sure about this one hehe)
 
 <!---
 Umaira-dn/Umaira-dn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
